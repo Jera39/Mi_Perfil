@@ -1,11 +1,19 @@
 /*CONTENIDO GENERAL DE FONDOS Y DEMAS*/
 body {
     background-color: #6d418d;
+    display: flex;
+    flex-direction: column;
 }
 
 
 
+
 /*HEADER*/
+
+#header{
+    padding-left: 2%;
+    padding-right: 2%;
+}
 
 .header-links li span {
     position: relative;
@@ -31,10 +39,18 @@ body {
     background-color: #ccc;
 }
 
+#search::placeholder {
+    color: white;
+}
+
 
 /*MAIN*/
 
-
+main{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
 
 
 /*FOOTER*/
