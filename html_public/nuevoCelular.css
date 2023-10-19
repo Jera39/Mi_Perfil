@@ -29,7 +29,7 @@ body {
 main {
     
     width: 100%; /* Establece un ancho del 100% del contenedor principal (normalmente el cuerpo o viewport). */
-    height: 100vh; /* Establece una altura del 100% del viewport. */
+    height: 100%; /* Establece una altura del 100% del viewport. */
     background-size: 100% 100%;
 }
 .dark-footer {
