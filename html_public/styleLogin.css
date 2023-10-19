@@ -152,7 +152,8 @@ body {
     margin-top: 30px;
     align-items: center;
     justify-content: center;
-    display: flex
+    display: flex;
+    font-size: medium;
 }
 #Resgistrarse a{
     color: #fcae04;
