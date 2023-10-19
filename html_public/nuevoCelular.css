@@ -73,3 +73,8 @@ main {
     align-items: center;
 
 }
+
+.btn-outline-info:hover svg path,
+.btn-outline-info:hover svg circle {
+    stroke: #ffffff; /* Cambiar el color a blanco o el que desees */
+}
