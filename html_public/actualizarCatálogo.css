@@ -46,6 +46,34 @@ main {
     color: #fca466;
 }
 
+.formulario{
+    margin: 20px;
+}
+
+.contenido{
+    padding: 2%;
+    color: #fff;
+}
+
+.formulario div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.titulo{
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.titulo h2{
+
+    justify-content: center;
+    align-items: center;
+
+}
+
 .btn-outline-info:hover svg path,
 .btn-outline-info:hover svg circle {
     stroke: #ffffff; /* Cambiar el color a blanco o el que desees */
