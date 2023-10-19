@@ -4,7 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #22272e !important;
+    background-color: #444654 !important;
 }
 
 .navbar{
