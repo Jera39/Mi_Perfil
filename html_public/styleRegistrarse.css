@@ -216,7 +216,11 @@ body {
 }
 
 .titulo span:nth-child(5) {
-    animation-delay: 1s;
+    animation-delay: 1.2s;
+}
+
+.titulo span:nth-child(5) {
+    animation-delay: 1.4s;
 }
 
 @keyframes animate {
