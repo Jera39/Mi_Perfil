@@ -51,6 +51,6 @@ main {
     stroke: #ffffff; /* Cambiar el color a blanco o el que desees */
 }
 
-#nombre-usuario{
-    margin: 0px 10px;
+#img-svg-user{
+    margin-right: 10px;
 }
