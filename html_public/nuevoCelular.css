@@ -45,3 +45,11 @@ main {
 .dark-footer a{
     color: #19d7e6;
 }
+
+.formulario{
+    margin: 20px;
+}
+
+.contenido{
+    padding: 2%;
+}
