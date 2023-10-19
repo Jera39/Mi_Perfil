@@ -52,10 +52,14 @@ main {
 
 .contenido{
     padding: 2%;
-    background: #fff;
+    background-size: #fff;
 }
 
 .formulario div{
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.titulo{
+    background-size: #fff;
 }
