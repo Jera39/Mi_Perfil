@@ -70,7 +70,7 @@ main {
     background-color: #70ebff;
     box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
     border: none;
-    border-radius: 0%;
+    border-radius: 50%;
     cursor: pointer;
     font-size: 30px;
     position: fixed;
