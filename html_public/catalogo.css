@@ -93,3 +93,8 @@ main {
 .nuevoCelular:hover{
     transform: rotate(224deg) translate(0, 0);
 }
+
+.btn-outline-info:hover svg path,
+.btn-outline-info:hover svg circle {
+    stroke: #ffffff; /* Cambiar el color a blanco o el que desees */
+}
