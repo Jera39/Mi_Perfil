@@ -285,6 +285,10 @@ body {
     }
 }
 
+.finalizar-registro{
+    margin-top: 15px;
+}
+
 /*PANTALLAS DE CELULAR*/
 @media screen and (max-width:767px) {
 
