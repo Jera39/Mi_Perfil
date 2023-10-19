@@ -8,7 +8,7 @@ body {
 }
 
 .navbar{
-    background: linear-gradient( #210D3C, #009fbe);
+    background: linear-gradient( #210D3C 60%, #009fbe);
 }
 /*#210D3C,#fca466, #3fe3e9*/
 
