@@ -13,8 +13,8 @@ function cambiarFondoYBordeSegunHora() {
     if (esPantallaCelular) {
         // Si es una pantalla de celular, ajusta el fondo y otros estilos para celular
         fondo.style.backgroundImage = horaActual >= horaNocheInicio || horaActual < horaNocheFin
-            ? "url('img/fondomontana4cel.jpeg')" // Fondo para celular de noche
-            : "url('img/fondomontana2cel.jpeg')"; // Fondo para celular de día
+            ? "url('https://jera-liart.vercel.app/img/fondomontana4cel.jpeg')" // Fondo para celular de noche
+            : "url('https://jera-liart.vercel.app/img/fondomontana2cel.jpeg')"; // Fondo para celular de día
         
         // Ajusta el borde para pantallas de celular
         login.style.borderColor = horaActual >= horaNocheInicio || horaActual < horaNocheFin
@@ -27,11 +27,11 @@ function cambiarFondoYBordeSegunHora() {
     } else {
         // Si no es una pantalla de celular, usa tu lógica original para cambiar fondos y bordes
         if (horaActual >= horaNocheInicio || horaActual < horaNocheFin) {
-            fondo.style.backgroundImage = "url('img/fondomontana4.jpeg')";
+            fondo.style.backgroundImage = "url('https://jera-liart.vercel.app/img/fondomontana4.jpeg')";
             login.style.borderColor = "rgba(0, 0, 0, 0.2)";
             login.style.backgroundColor = "rgba(0, 0, 0, 0.4)";
         } else {
-            fondo.style.backgroundImage = "url('img/fondomontana2.jpeg')";
+            fondo.style.backgroundImage = "url('https://jera-liart.vercel.app/img/fondomontana2.jpeg')";
             login.style.borderColor = "rgba(253, 197, 171, 0.4)";
             login.style.backgroundColor = "rgba(71, 87, 131, 0.5)";
             nube.style.opacity = "0.5";
