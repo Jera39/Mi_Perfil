@@ -8,7 +8,8 @@ body {
 }
 
 .navbar{
-    background: linear-gradient( #FC466B 0%, #3F5EFB 100%);
+    background: rgb(33,13,60);
+background: linear-gradient(180deg, rgba(33,13,60,1) 0%, rgba(100,44,142,0.9551470246301645) 29%, rgba(131,58,180,0.9131302179074755) 52%, rgba(87,88,173,0.8290966044620973) 74%, rgba(19,133,161,0.7618697137057948) 100%);
 }
 /*#210D3C,#fca466, #3fe3e9*/
 
