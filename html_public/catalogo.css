@@ -8,8 +8,7 @@ body {
 }
 
 .navbar{
-    background: rgb(19,24,46);
-background: linear-gradient(180deg, rgba(19,24,46,1) 22%, rgba(208,95,109,1) 100%);
+    background: linear-gradient( #210D3C, #009fbe);
 }
 /*#210D3C,#fca466, #3fe3e9*/
 
@@ -37,12 +36,11 @@ main {
     justify-content: center;
 }
 .dark-footer {
-    color: #fff;
+    color: #210D3C;
     padding: 0px 0;
     margin-top: auto;
     width: 100%;
-    background: rgb(22,115,148);
-background: linear-gradient(180deg, rgba(22,115,148,1) 29%, rgba(208,95,109,1) 100%);
+    background: linear-gradient( #210D3C, #009fbe);
     text-align: center;
     display: flex;
 }

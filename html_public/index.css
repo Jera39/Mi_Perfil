@@ -33,11 +33,11 @@ main {
     background-size: 100% 100%;
 }
 .dark-footer {
-    color: #fff;
+    color: #210D3C;
     padding: 0px 0;
     margin-top: auto;
     width: 100%;
-    background: #210D3C;
+    background: linear-gradient( #210D3C, #009fbe);
     text-align: center;
     display: flex;
 }
